@@ -30,14 +30,14 @@
 h2 {
     text-align: center;
     margin-bottom: 20px;
-    color: #4CAF50; /* Matching project color */
+    color: #4CAF50; 
 }
 
 label {
     display: block;
     margin-bottom: 5px;
     font-weight: bold;
-    color: #333; /* Matching project color */
+    color: #333; 
 }
 
 input[type="text"],
