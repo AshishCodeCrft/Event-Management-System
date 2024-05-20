@@ -55,11 +55,11 @@ public class AttendeeController {
     }
     @GetMapping("/home")
     public String showHomePage() {
-        return "home.jsp"; // Assumes you have a home.jsp for the home page
+        return "home.jsp"; 
     }
     @GetMapping("/feedback")
     public String showFeedbackPage() {
-        return "feedbackForm.jsp"; // Assumes you have a feedbackForm.jsp for feedback
+        return "feedbackForm.jsp"; 
     }
     
 }
